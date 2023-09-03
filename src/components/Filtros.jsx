@@ -3,7 +3,7 @@ import {useState, useEffect} from 'react'
 const Filtros = ({filtro, setFiltro}) => {
 
   return (
-    <div className='filtros sombre contenedor'>
+    <div className='filtros sombra contenedor'>
         <form >
             <div className='campo'>
                 <label >Filtrar Gastos</label>
