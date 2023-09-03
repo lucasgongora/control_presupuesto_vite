@@ -13,6 +13,8 @@ const Header = ({
   return (
     <header>
         <h1>Planificador de Gastos</h1>
+        <h3>by Lucas Góngora</h3>
+       
 
         {isValidPresupuesto ? (
           <ControlPresupuesto
